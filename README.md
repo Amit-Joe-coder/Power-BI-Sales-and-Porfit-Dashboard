@@ -2,7 +2,7 @@
 
 An interactive and visually-rich **Power BI Dashboard** to analyze sales and profit performance across multiple regions, product categories, and customer segments. This project demonstrates real-world business intelligence techniques using **Power BI** and **Excel**.
 
-![Dashboard Preview](assets/overview.png)
+![Dashboard Preview]([assets/overview.png](https://github.com/Amit-Joe-coder/Power-BI-Sales-and-Porfit-Dashboard/blob/main/DashBoard.png))
 
 ---
 
